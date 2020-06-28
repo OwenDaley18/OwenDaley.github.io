@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Resume"
-  - url: https://owendaley18.github.io/OwenDaley.github.io/_pages/Resume.pdf
+    url: https://owendaley18.github.io/OwenDaley.github.io/_pages/Resume.pdf
   - title: "About"
     url: /about/
   - title: "Projects"
