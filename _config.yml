@@ -29,7 +29,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -40,7 +40,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : # "owen@daley.com"
   generatedFields:
     date:
       type               : # "date"
@@ -64,7 +64,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -88,7 +88,7 @@ author:
   avatar           : "/images/WebPortfolioPicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web Portfolio"
   location         : "Seattle, WA"
-  email            :
+  email            : "owen@daley.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
-  gitlab           :
+  github           : "OwenDaley18"
+  gitlab           : "odaley45"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "owen-daley-2284651b1" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
