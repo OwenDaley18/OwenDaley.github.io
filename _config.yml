@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Owen Daley"
   avatar           : "/images/WebPortfolioPicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[Resume](https://owendaley18.github.io/OwenDaley.github.io/_pages/Resume.pdf)"
+  bio              : "Web Portfolio"
   location         : "Seattle, WA"
   email            : "owen@daley.com"
   uri              : 
