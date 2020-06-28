@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Owen Daley"
-  avatar           : "/images/WebPortfolioPicture" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/WebPortfolioPicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web Portfolio"
   location         : "Seattle, WA"
   email            :
