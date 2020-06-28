@@ -5,4 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a Junior at the @[UW Paul G. Allen School of Computer Science and Engineering](www.cs.washington.edu). My various passions include Software Development, Machine Learning, Computer Security, and hiking!  
+I'm a Junior at the [UW Paul G. Allen School of Computer Science and Engineering](www.cs.washington.edu). My various passions include Software Development, Machine Learning, Computer Security, and hiking!  
