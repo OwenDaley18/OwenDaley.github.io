@@ -1,6 +1,6 @@
 ---
 title: "Campus Paths Project"
-date: 2018-01-28
+date: 2020-06-10
 tags: []
 header:
   image: "images/perceptron/CampusMap.png"
@@ -8,7 +8,7 @@ excerpt:
 mathjax: "true"
 ---
 
-# H1 Heading
+# Project Overview
 
 ## H2 Heading
 
