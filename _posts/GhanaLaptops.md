@@ -3,7 +3,7 @@ title: "Ghana Laptops Project"
 date: 2016-02-01
 tags: []
 header:
-  image:
+image:
 excerpt:
 mathjax: "true"
 ---
