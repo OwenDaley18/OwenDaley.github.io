@@ -2,7 +2,7 @@
 title: "Campus Paths Project"
 date: 2020-06-10
 tags: []
-header:
+header: 
 image: "images/perceptron/CampusMap.png"
 excerpt:
 mathjax: "true"
